@@ -60,6 +60,6 @@ eval "$(fzf --zsh)"
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias ll='ls --color=auto -alF'
+alias ll='ls --color=auto -alhF'
 alias yeet='sudo pacman -Rns'
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
