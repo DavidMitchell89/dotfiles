@@ -1,0 +1,187 @@
+[
+  {
+    "identifier": "2362:628:PIXA3854:00_093A:0274_Touchpad",
+    "name": "PIXA3854:00 093A:0274 Touchpad",
+    "type": "touchpad",
+    "scroll_factor": 1.0,
+    "libinput": {
+      "send_events": "enabled",
+      "tap": "disabled",
+      "tap_button_map": "lrm",
+      "tap_drag": "enabled",
+      "tap_drag_lock": "disabled",
+      "accel_speed": 0.0,
+      "accel_profile": "adaptive",
+      "natural_scroll": "disabled",
+      "left_handed": "disabled",
+      "click_method": "button_areas",
+      "clickfinger_button_map": "lrm",
+      "middle_emulation": "disabled",
+      "scroll_method": "two_finger",
+      "dwt": "enabled",
+      "dwtp": "enabled"
+    },
+    "vendor": 2362,
+    "product": 628
+  },
+  {
+    "identifier": "2362:628:PIXA3854:00_093A:0274_Mouse",
+    "name": "PIXA3854:00 093A:0274 Mouse",
+    "type": "pointer",
+    "scroll_factor": 1.0,
+    "libinput": {
+      "send_events": "enabled",
+      "accel_speed": 0.0,
+      "accel_profile": "adaptive",
+      "natural_scroll": "disabled",
+      "left_handed": "disabled",
+      "scroll_method": "on_button_down",
+      "scroll_button": 273,
+      "scroll_button_lock": "disabled"
+    },
+    "vendor": 2362,
+    "product": 628
+  },
+  {
+    "identifier": "12972:18:Framework_Laptop_16_Keyboard_Module_-_ANSI_Keyboard",
+    "name": "Framework Laptop 16 Keyboard Module - ANSI Keyboard",
+    "type": "keyboard",
+    "repeat_delay": 600,
+    "repeat_rate": 25,
+    "xkb_layout_names": [
+      "English (US)"
+    ],
+    "xkb_active_layout_index": 0,
+    "xkb_active_layout_name": "English (US)",
+    "libinput": {
+      "send_events": "enabled"
+    },
+    "vendor": 12972,
+    "product": 18
+  },
+  {
+    "identifier": "12972:18:Framework_Laptop_16_Keyboard_Module_-_ANSI_Wireless_Radio_Control",
+    "name": "Framework Laptop 16 Keyboard Module - ANSI Wireless Radio Control",
+    "type": "keyboard",
+    "repeat_delay": 600,
+    "repeat_rate": 25,
+    "xkb_layout_names": [
+      "English (US)"
+    ],
+    "xkb_active_layout_index": 0,
+    "xkb_active_layout_name": "English (US)",
+    "libinput": {
+      "send_events": "enabled"
+    },
+    "vendor": 12972,
+    "product": 18
+  },
+  {
+    "identifier": "12972:18:Framework_Laptop_16_Keyboard_Module_-_ANSI_Consumer_Control",
+    "name": "Framework Laptop 16 Keyboard Module - ANSI Consumer Control",
+    "type": "pointer",
+    "scroll_factor": 1.0,
+    "libinput": {
+      "send_events": "enabled",
+      "natural_scroll": "disabled"
+    },
+    "vendor": 12972,
+    "product": 18
+  },
+  {
+    "identifier": "12972:18:Framework_Laptop_16_Keyboard_Module_-_ANSI_Consumer_Control",
+    "name": "Framework Laptop 16 Keyboard Module - ANSI Consumer Control",
+    "type": "keyboard",
+    "repeat_delay": 600,
+    "repeat_rate": 25,
+    "xkb_layout_names": [
+      "English (US)"
+    ],
+    "xkb_active_layout_index": 0,
+    "xkb_active_layout_name": "English (US)",
+    "libinput": {
+      "send_events": "enabled",
+      "natural_scroll": "disabled"
+    },
+    "vendor": 12972,
+    "product": 18
+  },
+  {
+    "identifier": "12972:18:Framework_Laptop_16_Keyboard_Module_-_ANSI_System_Control",
+    "name": "Framework Laptop 16 Keyboard Module - ANSI System Control",
+    "type": "keyboard",
+    "repeat_delay": 600,
+    "repeat_rate": 25,
+    "xkb_layout_names": [
+      "English (US)"
+    ],
+    "xkb_active_layout_index": 0,
+    "xkb_active_layout_name": "English (US)",
+    "libinput": {
+      "send_events": "enabled"
+    },
+    "vendor": 12972,
+    "product": 18
+  },
+  {
+    "identifier": "12972:18:Framework_Laptop_16_Keyboard_Module_-_ANSI",
+    "name": "Framework Laptop 16 Keyboard Module - ANSI",
+    "type": "keyboard",
+    "repeat_delay": 600,
+    "repeat_rate": 25,
+    "xkb_layout_names": [
+      "English (US)"
+    ],
+    "xkb_active_layout_index": 0,
+    "xkb_active_layout_name": "English (US)",
+    "libinput": {
+      "send_events": "enabled"
+    },
+    "vendor": 12972,
+    "product": 18
+  },
+  {
+    "identifier": "0:1:Power_Button",
+    "name": "Power Button",
+    "type": "keyboard",
+    "repeat_delay": 600,
+    "repeat_rate": 25,
+    "xkb_layout_names": [
+      "English (US)"
+    ],
+    "xkb_active_layout_index": 0,
+    "xkb_active_layout_name": "English (US)",
+    "libinput": {
+      "send_events": "enabled"
+    },
+    "vendor": 0,
+    "product": 1
+  },
+  {
+    "identifier": "0:5:Lid_Switch",
+    "name": "Lid Switch",
+    "type": "switch",
+    "libinput": {
+      "send_events": "enabled"
+    },
+    "vendor": 0,
+    "product": 5
+  },
+  {
+    "identifier": "0:6:Video_Bus",
+    "name": "Video Bus",
+    "type": "keyboard",
+    "repeat_delay": 600,
+    "repeat_rate": 25,
+    "xkb_layout_names": [
+      "English (US)"
+    ],
+    "xkb_active_layout_index": 0,
+    "xkb_active_layout_name": "English (US)",
+    "libinput": {
+      "send_events": "enabled"
+    },
+    "vendor": 0,
+    "product": 6
+  }
+]
